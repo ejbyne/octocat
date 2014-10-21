@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is usually referred to in the context of forking, i.e. when a user creates a copy of another repo on GitHub in order to make changes to the copy.
+The original repo (which has been forked) is generally referred to as the "upstream" repo.
