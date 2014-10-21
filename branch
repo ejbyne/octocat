@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+A branch is a parallel version of a repository. It records changes separately from other branches without affecting them.
+This enables users to experiment with changes in different branches. The changes can if required be subsequently "merged" into other branches.
