@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+The git clone command creates an identical copy of a remote repository on a local computer.
+The process creates a new directory for storing the repo, initiates the directory as a repo, records the location of the original repo, and pulls the contents of the original repo into the new repo.
